@@ -1,0 +1,10 @@
+# MySQL exports and local workspace files
+*.sql~
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Private credentials / environment files
+.env
+*.pem
+*.key
